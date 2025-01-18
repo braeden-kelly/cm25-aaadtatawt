@@ -1,0 +1,2 @@
+- https://github.com/Azure-Terraformer
+- https://discord.com/channels/1127340805741359164/1328020605752180786
