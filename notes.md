@@ -1,0 +1,5 @@
+- AT-AT
+  - Automate the automation with terra form
+  - Special terraform module not to set up cloud infrastructure but all of the initial scaffolding required for an application to be able to release
+- GitHub AT-AT
+  - Specific instance that provisions all of azure required for terraform, entra to provision accounts and configure permissions, and repo
